@@ -1,0 +1,1 @@
+C:\Users\gus_g\Documents\CUCEI\8vo\New\ folder\Participacion\ Rust\ 101\Participacion_Rust_101\target\debug\Participacion_Rust_101.exe: C:\Users\gus_g\Documents\CUCEI\8vo\New\ folder\Participacion\ Rust\ 101\Participacion_Rust_101\src\main.rs
